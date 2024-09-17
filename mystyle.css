@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(128, 0, 255); 
+}
+
+body {
+    background-color: #474973
+}
+
+#content {
+    color: White;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
